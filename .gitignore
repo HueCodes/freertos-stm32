@@ -1,0 +1,10 @@
+.DS_Store
+build/
+third_party/
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+learning-guide.md
+learning.md
